@@ -36,7 +36,7 @@
 
 <br>
 <div align="center">
-	<img src="https://jd-visitor-counter.herokuapp.com/custom/myGitHub.svg">
+	<img src="https://jd-visitor-counter.herokuapp.com/custom/myGitHub.svg?">
 </div>
 
 <div align="center">
