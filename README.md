@@ -37,7 +37,7 @@
 
 <br>
 <div align="center">
-	<img src="https://jd-visitor-counter.herokuapp.com/custom/myGitHub.svg?" alt="Visitor counter">
+	<img src="https://jd-visitor-counter.herokuapp.com/custom/github:josejefferson/count.svg" alt="Visitor counter" title="Visitor counter">
 </div>
 
 <div align="center">
