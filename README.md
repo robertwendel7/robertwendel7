@@ -36,6 +36,10 @@
 
 <br>
 <div align="center">
+	<img src="https://jd-visitor-counter.herokuapp.com/custom/myGitHub.svg">
+</div>
+
+<div align="center">
 	From Brazil
 	<img height="12" src="https://josejefferson.github.io/brazil-flag-simplified.png" alt="Brazil flag">
 </div>
