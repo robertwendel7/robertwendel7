@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://josejefferson.github.io">
-		<img height="100" src="https://josejefferson.github.io/avatar-rounded.png" alt="My avatar">
+		<img height="100" src="https://raw.githubusercontent.com/josejefferson/josejefferson/master/img/avatar-rounded.webp" alt="My avatar">
 		<h1>Jefferson Dantas</h1>
 	</a>
 </div>
@@ -42,5 +42,5 @@
 
 <div align="center">
 	From Brazil
-	<img height="12" src="https://josejefferson.github.io/brazil-flag-simplified.png" alt="Brazil flag">
+	<img height="12" src="https://raw.githubusercontent.com/josejefferson/josejefferson/master/img/brazil-flag-simplified.webp" alt="Brazil flag">
 </div>
