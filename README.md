@@ -9,6 +9,7 @@
 	<a href="https://github.com/josejefferson?tab=repositories">
 		<img height="150em" src="https://github-readme-stats.vercel.app/api?username=josejefferson&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Stats">
 		<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josejefferson&layout=compact&langs_count=7&theme=gruvbox" alt="Most used languages">
+		<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=josejefferson&theme=dark&background=282828&border=e4e2e2&stroke=555555&ring=d8a52e&currStreakLabel=fd8019&sideNums=8ec07c&sideLabels=8ec07c&currStreakNum=8ec07c" alt="GitHub Streak">
 		<img width="100%" src="https://raw.githubusercontent.com/josejefferson/josejefferson/output/github-contribution-grid-snake.svg" alt="Contribution grid snake">
 	</a>
 </div>
