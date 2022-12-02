@@ -40,11 +40,6 @@
 	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code">
 </div>
 
-<br>
-<div align="center">
-	<img src="https://jd-visitor-counter.herokuapp.com/custom/github:josejefferson/count.svg" alt="Visitor counter" title="Visitor counter">
-</div>
-
 <div align="center">
 	From Brazil
 	<img height="12" src="https://raw.githubusercontent.com/josejefferson/josejefferson/master/img/brazil-flag-simplified.webp" alt="Brazil flag">
