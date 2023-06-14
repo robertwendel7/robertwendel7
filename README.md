@@ -40,7 +40,17 @@
 	<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code">
 </div>
 
+<br>
 <div align="center">
-	From Brazil
+	<img src="https://jd-visitor-counter.jeffersondantas.repl.co/custom/github:josejefferson/count.svg" alt="Visitor counter" title="Visitor counter">
+</div>
+
+<div align="center">
+	<a href="https://www.linkedin.com/in/jose-jefferson/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+	</a>
+</div>
+<div align="center">
+	<span>From Brazil</span>
 	<img height="12" src="https://raw.githubusercontent.com/josejefferson/josejefferson/master/img/brazil-flag-simplified.webp" alt="Brazil flag">
 </div>
