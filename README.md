@@ -1,6 +1,5 @@
 <div align="center">
 	<a href="https://josejefferson.github.io">
-		
 		<h1>Robert Wendel</h1>
 	</a>
 </div>
