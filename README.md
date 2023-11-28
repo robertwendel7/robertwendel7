@@ -1,7 +1,6 @@
 <div align="center">
 	<a href="https://josejefferson.github.io">
-		<img height="100" 
-
+		
 		<h1>Robert Wendel</h1>
 	</a>
 </div>
