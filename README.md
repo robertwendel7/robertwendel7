@@ -1,7 +1,7 @@
 <div align="center">
 	<a href="https://josejefferson.github.io">
 		<img height="100" src="https://raw.githubusercontent.com/josejefferson/josejefferson/master/img/avatar-rounded.webp" alt="My avatar">
-		<h1>Jefferson Dantas</h1>
+		<h1>Robert Wendel</h1>
 	</a>
 </div>
 &nbsp;
