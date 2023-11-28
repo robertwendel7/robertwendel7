@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://josejefferson.github.io">
-		<img height="100" src="![robert](https://github.com/robertwendel7/robertwendel7/assets/134088034/084bf490-3528-4e02-89ba-10f3f3daf0ee)" alt="My avatar">![robert](https://github.com/robertwendel7/robertwendel7/assets/134088034/084bf490-3528-4e02-89ba-10f3f3daf0ee)
+		<img height="100" 
 
 		<h1>Robert Wendel</h1>
 	</a>
