@@ -1,7 +1,7 @@
 <div align="center">
 	<a href="https://robertwendel7.github.io">
 		<img height="100" src="https://github.com/robertwendel7.png" alt="My avatar">
-		<h1>Robert Wendel</h1>
+		<h1>Robert Wendel 7</h1>
 	</a>
 </div>
 &nbsp;
